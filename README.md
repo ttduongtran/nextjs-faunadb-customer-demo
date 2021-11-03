@@ -1,0 +1,1 @@
+# nextjs-faunadb-customer-demo
